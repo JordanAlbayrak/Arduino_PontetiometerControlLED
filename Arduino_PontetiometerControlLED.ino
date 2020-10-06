@@ -11,6 +11,7 @@ void setup() {
 
 
 }
+//Added this to test commiting changes to GitHub
 
 void loop() {
   sensorValue = analogRead( sensorPin);
